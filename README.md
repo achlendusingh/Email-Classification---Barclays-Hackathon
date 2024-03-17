@@ -1,15 +1,16 @@
 # Email-Classification---Barclays-Hackathon
-Barclays Email Classifier & Router
+**Barclays Email Classifier & Router**
 
-Overview
+**Overview**
 This project aims to automate the classification and routing of customer/client emails within Barclays, enabling efficient handling of inquiries, complaints, and requests. By leveraging natural language processing (NLP) techniques, we automate the process of categorizing emails and forwarding them to the appropriate departments or teams for further action.
 
-Features
-Email Retrieval: Utilizes the IMAP protocol in Python to fetch emails from the Barclays email server.
-Text Classification: Applies machine learning techniques, specifically Google GenAI (Language Model), to classify emails into predefined categories such as complaints, queries, or requests.
-Routing: Uses SMTP to forward classified emails to the relevant departments or teams within Barclays for further processing.
-Feedback Loop: Implements a feedback mechanism where human intervention can validate and correct misclassifications, improving the accuracy of the classification model over time.
-Getting Started
+**Features**
+**Email Retrieval:** Utilizes the IMAP protocol in Python to fetch emails from the Barclays email server.
+**Text Classification:** Applies machine learning techniques, specifically Google GenAI (Language Model), to classify emails into predefined categories such as complaints, queries, or requests.
+**Routing:** Uses SMTP to forward classified emails to the relevant departments or teams within Barclays for further processing.
+**Feedback Loop:** Implements a feedback mechanism where human intervention can validate and correct misclassifications, improving the accuracy of the classification model over time.
+
+**Getting Started**
 Prerequisites
 Python 3.x
 Dependencies listed in requirements.txt
