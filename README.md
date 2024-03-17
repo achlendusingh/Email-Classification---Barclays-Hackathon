@@ -6,8 +6,11 @@ This project aims to automate the classification and routing of customer/client 
 
 **Features**
 **Email Retrieval:** Utilizes the IMAP protocol in Python to fetch emails from the Barclays email server.
+
 **Text Classification:** Applies machine learning techniques, specifically Google GenAI (Language Model), to classify emails into predefined categories such as complaints, queries, or requests.
+
 **Routing:** Uses SMTP to forward classified emails to the relevant departments or teams within Barclays for further processing.
+
 **Feedback Loop:** Implements a feedback mechanism where human intervention can validate and correct misclassifications, improving the accuracy of the classification model over time.
 
 **Getting Started**
