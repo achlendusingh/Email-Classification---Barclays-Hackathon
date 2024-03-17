@@ -14,10 +14,14 @@ This project aims to automate the classification and routing of customer/client 
 **Feedback Loop:** Implements a feedback mechanism where human intervention can validate and correct misclassifications, improving the accuracy of the classification model over time.
 
 ## **Getting Started**
+
 **Prerequisites**
+
 Python 3.x
 Dependencies listed in requirements.txt
+
 **Installation**
+
 ##  Clone the repository:
 git clone https://github.com/yourusername/barclays-email-classifier.git
 cd barclays-email-classifier
