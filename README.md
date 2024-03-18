@@ -20,7 +20,7 @@ This project aims to automate the classification and routing of customer/client 
 Python 3.x
 Dependencies listed in requirements.txt
 
-**Installation**
+***Installation***
 
 ##  Clone the repository:
 git clone https://github.com/yourusername/barclays-email-classifier.git
